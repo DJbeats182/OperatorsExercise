@@ -1,0 +1,15 @@
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\bin\Debug\net6.0\OperatorsExercise1Console.exe
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\bin\Debug\net6.0\OperatorsExercise1Console.deps.json
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\bin\Debug\net6.0\OperatorsExercise1Console.runtimeconfig.json
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\bin\Debug\net6.0\OperatorsExercise1Console.dll
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\bin\Debug\net6.0\OperatorsExercise1Console.pdb
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.csproj.AssemblyReference.cache
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.AssemblyInfoInputs.cache
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.AssemblyInfo.cs
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.csproj.CoreCompileInputs.cache
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.dll
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\refint\OperatorsExercise1Console.dll
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.pdb
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\OperatorsExercise1Console.genruntimeconfig.cache
+C:\Users\bloov\Desktop\repos\OperatorExercise\OperatorsExercise1\OperatorsExercise1Console\obj\Debug\net6.0\ref\OperatorsExercise1Console.dll
