@@ -1,4 +1,5 @@
-﻿
+﻿using System;
+using OperatorsExercise1Console;
 
 //-----------------------Exercise-1-----------------------------------
 
@@ -23,15 +24,11 @@ Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
 Console.WriteLine("What is the radius of your cirlce?");
 var userInput = Console.ReadLine();
 var raduis = double.Parse(userInput);
-Console.WriteLine($"The area of a circle with the raduis of {userInput} is:");
-Console.WriteLine(AreaOfCircle(raduis));
+var answer = Methods.AreaOfCircle(raduis);
+Console.WriteLine($"The area of a circle with the raduis of {userInput} is {answer}");
+
 
  
 
- static double AreaOfCircle(double radius)
-{
-    var area = Math.PI * Math.Pow(radius, 2);
-    return area;
-
-}
+ 
 
