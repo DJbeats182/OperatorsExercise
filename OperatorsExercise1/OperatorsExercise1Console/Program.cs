@@ -15,7 +15,11 @@ int sum = a + b;
 int difference = a - b;
 int product = a * b;
 
-Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
+
+if (a == 17 && b == 4)
+{
+    Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
+}
 
 //-----------------------Exercise-2-----------------------------------
 
