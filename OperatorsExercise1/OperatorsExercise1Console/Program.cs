@@ -29,7 +29,7 @@ Console.WriteLine("What is the radius of your cirlce?");
 var userInput = Console.ReadLine();
 var raduis = double.Parse(userInput);
 var answer = Methods.AreaOfCircle(raduis);
-Console.WriteLine($"The area of a circle with the raduis of {userInput} is {answer}");
+Console.WriteLine($"The area of a circle with the raduis of {userInput} is {Math.Round(answer, 2)}");
 
 
  
